@@ -43,7 +43,7 @@ body {
  }
  
  .past {
-   background-color: #d3d3d3;
+   background-color: #ce0b0b;
    color: white;
  }
  
@@ -69,4 +69,6 @@ body {
    font-size: 20px;
    transition: all .3s ease-in-out;
  }
+
+ 
  
