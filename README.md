@@ -12,3 +12,5 @@
   <li>When you click the save button for that timeblock, then the text for that event is saved in local storage</li>
   <li>When you refresh the page, then the saved events persist</li>
 </ul>
+
+<img src="image/screen-shot.PNG"/>
