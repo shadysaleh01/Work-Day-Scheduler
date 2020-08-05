@@ -15,7 +15,7 @@ body {
  
  .jumbotron {
    text-align: center;
-   /* background-color: transparent; */
+   background-color: transparent;
    color: black;
    border-radius: 0;
    border-bottom: 10px solid black;
@@ -43,7 +43,7 @@ body {
  }
  
  .past {
-   background-color: #ce0b0b;
+   background-color: #da3d3d;
    color: white;
  }
  
@@ -70,5 +70,14 @@ body {
    transition: all .3s ease-in-out;
  }
 
- 
+ /* Styles for Save icon */
+ .fa-save {
+  padding: 10px;
+
+}
+
+/* Styles for container */
+.container {
+margin-bottom: 10%;
+}
  
